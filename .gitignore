@@ -1,0 +1,10 @@
+# User data extraction folders
+ZipDownloads/
+**/ZipDownloads/
+
+# .NET compilation assets
+bin/
+obj/
+*.user
+*.suo
+.vs/
