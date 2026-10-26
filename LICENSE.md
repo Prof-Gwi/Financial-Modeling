@@ -1,17 +1,12 @@
 # Repository Open Source License
 
-<table width="100%">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://www.apache.org/foundation/press/kit/asf_logo_wide.svg" height="60px" alt="Apache Software Foundation Logo"/>
-    </td>
-    <td>
-      <strong>Apache License, Version 2.0</strong><br/>
-      Published: January 2004<br/>
-      Link: <a href="https://www.apache.org/licenses/">apache.org/licenses/</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://www.apache.org/foundation/press/kit/asf_logo_wide.svg" width="220px" alt="Apache Software Foundation Logo"/>
+  <br/>
+  <h3><strong>Apache License, Version 2.0</strong></h3>
+  <p>Published: January 2004 | Official Registry: <a href="https://www.apache.org/licenses/">apache.org/licenses/</a>
+  </p>
+</div>
 
 ---
 
