@@ -6,17 +6,23 @@ Successful inquiry in the social sciences presents many challenges because of th
 
 This repository, however, branches heavily out into "the wild."
 
-To equip the modern analyst to survive non-cooperative data ecosystems, un-sanitized regulatory disclosures, and messy real-world market constraints, the curriculum is organized into three distinct computational pillars:
+To equip the modern analyst to survive non-cooperative data ecosystems, un-sanitized regulatory disclosures, and messy real-world market constraints, the curriculum is organized into three distinct computational environments:
 
 ---
 
-### <img src=".github/SAS.webp" height="45px" alt="SAS Logo" valign="middle"/> &nbsp; The SAS Pillar
+### <img src=".github/SAS.webp" height="45px" alt="SAS Logo"/><br/>The SAS Core
+*Switch to the [`SAS`](../../tree/SAS) branch for this ecosystem.*
+
 For enterprise-grade risk compliance analytics, time-series operations, and historical institutional data validation. This ecosystem focuses on building core schema manipulation, table engineering, and abstract financial concept validation.
 
-### <img src=".github/CSharp.webp" height="45px" alt="C# Logo" valign="middle"/> &nbsp; The C# Pillar
+### <img src=".github/CSharp.webp" height="45px" alt="C# Logo"/><br/>The C# Engine
+*Switch to the [`C#`](../../tree/C%23) branch for this ecosystem.*
+
 For building high-throughput, multi-threaded extraction engines (ETL), handling raw XML/HTML data streaming, and managing automated pipeline reliability. This system handles the heavy programmatic engineering required to ingest data from raw corporate filings.
 
-### <img src=".github/Sql.svg" height="45px" alt="SQL Logo" valign="middle"/> &nbsp; The SQL Pillar
+### <img src=".github/Sql.svg" height="45px" alt="SQL Logo"/><br/>The SQL Infrastructure
+*Switch to the [`SQL`](../../tree/SQL) branch for this ecosystem.*
+
 For industrial, production-grade relational database management. This environment covers parameterized, high-performance querying, structural key mutations, and transaction logic designed to manage data far beyond the boundaries of basic classroom procedures.
 
 ---
